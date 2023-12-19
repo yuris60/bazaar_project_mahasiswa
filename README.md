@@ -2,8 +2,9 @@
 <img src="assets/logo_ubsi.png" width="200px"><br>
 
 Bazaar project mahasiswa merupakan kumpulan project yang dihasilkan oleh Mahasiswa selama saya mengajar di kampus
-Universitas Bina Sarana Informatika (UBSI). Bazaar ini sebagai bentuk apresiasi setinggi-tingginya kepada
-seluruh mahasiswa yang sudah memberikan pekerjaan dengan baik dan maksimal.
+Universitas Bina Sarana Informatika (UBSI). Bazaar ini dipublikasikan sebagai bentuk apresiasi setinggi-tingginya kepada
+seluruh mahasiswa yang sudah memberikan pekerjaan dengan baik dan maksimal
+untuk mendapatkan nilai Project pada mata kuliah.
 
 ## 📱 Mobile Programming
 ### 1. <a href="https://github.com/aldytarigan/recipe_app">Recipe App</a>
