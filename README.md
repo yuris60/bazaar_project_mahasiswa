@@ -15,7 +15,7 @@ Aplikasi khusus untuk pengelolaan penjadwalan dan acara sebagai pengingat.
 ### <h3>3. <a href="https://github.com/andrr64/KeuanganKu">Financial App</a></h3>
 KeuanganKu hadir sebagai platform inovatif yang dirancang khusus untuk memberikan dukungan dalam mengelola keuangan Anda secara lebih efisien. Dengan fitur-fitur andalan yang tersedia, tujuan platform ini adalah untuk memudahkan Anda dalam perencanaan, pemantauan, dan optimalisasi segala aspek keuangan Anda.
 
-### <h3>4. <a href="https://github.com/andrr64/KeuanganKu">Nutrition App</a></h3>
+### <h3>4. <a href="https://github.com/Enzeed/Nutrisi-Apps-Kelompok2-FINAL_MP/tree/main/nutrisi">Nutrition App</a></h3>
 Melalui kemajuan teknologi mobile dan internet, aplikasi memberikan informasi nutrisi dengan mudah. Penggunaan data dan analitika membantu aplikasi memahami kebiasaan makan pengguna. Dengan fokus pada kesehatan masyarakat, aplikasi nutrisi memiliki potensi besar dalam mempengaruhi kebiasaan makan dan kesehatan secara keseluruhan.
 
 ## 🗒️ Credit
