@@ -1,7 +1,7 @@
-# Bazaar Project Mahasiswa
+# Showoff Project Mahasiswa
 <img src="assets/logo_ubsi.png" width="200px"><br>
 
-Bazaar project mahasiswa merupakan kumpulan project yang dihasilkan oleh Mahasiswa selama saya mengajar di kampus
+Showoff project mahasiswa merupakan kumpulan project yang dihasilkan oleh Mahasiswa selama saya mengajar di kampus
 Universitas Bina Sarana Informatika (UBSI). Bazaar ini dipublikasikan sebagai bentuk apresiasi setinggi-tingginya kepada
 seluruh mahasiswa yang sudah memberikan pekerjaan dengan baik dan maksimal
 untuk mendapatkan nilai project pada mata kuliah.
