@@ -24,6 +24,9 @@ Melalui kemajuan teknologi mobile dan internet, aplikasi memberikan informasi nu
 Aplikasi penjualan berbasis Mobile dengan menggunakan framework Flutter. Terdapat 3 menu utama yang terdapat pada aplikasi ini yakni Home Screen, Favourite dan Profile untuk User.
 dan untuk tampilan admin terdapat 4 Menu utama yakni Admin Home Page, Upload Image, List User dan List Product.
 
+#### 6. <a href="https://github.com/syaeiful/project_mobile_programming">Food Delivery</a>
+Program food delivery adalah sebuah sistem atau aplikasi yang memungkinkan pelanggan untuk memesan makanan dari restoran atau penjual makanan melalui platform online atau perangkat seluler. 
+
 ## 🗒️ Credit
 Segala hak cipta pada bazaar project ini dikembalikan kepada setiap kelompok yang membuat project tersebut.
 <blockquote>Kuliah...? BSI Aja !!</blockquote>
