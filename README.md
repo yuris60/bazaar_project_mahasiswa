@@ -10,9 +10,27 @@ untuk mendapatkan nilai project pada mata kuliah.
 ### 📱 Mobile Programming
 #### 1. <a href="https://github.com/aldytarigan/recipe_app">Recipe App</a>
 Aplikasi ResepKu adalah kunci rahasia untuk menjadikan pengalaman memasak Anda lebih menyenangkan dan terorganisir. Dengan fokus pada kepraktisan dan personalisasi, aplikasi ini dirancang untuk memenuhi kebutuhan unik setiap pengguna dalam menyimpan, dan berbagi resep makanan favorit pengguna.
+##### Screenshot
+<table>
+  <tr>
+    <td><img src="https://github.com/aldytarigan/recipe_app/blob/main/assets/img/home.jpg" width="180"></td>
+    <td><img src="https://github.com/aldytarigan/recipe_app/blob/main/assets/img/tambah_resep.jpg" width="180"></td>
+    <td><img src="https://github.com/aldytarigan/recipe_app/blob/main/assets/img/detail_resep.jpg" width="180"></td>
+    <td><img src="https://github.com/aldytarigan/recipe_app/blob/main/assets/img/edit_resep.jpg" width="180"></td>
+  </tr>
+</table>
 
 #### 2. <a href="https://github.com/SuamiSahShiroko/simple-scheduler-ubsi">Scheduler App</a>
 Aplikasi khusus untuk pengelolaan penjadwalan dan acara sebagai pengingat.
+##### Screenshot
+<table>
+  <tr>
+    <td><img src="https://github.com/SuamiSahShiroko/simple-scheduler-ubsi/blob/test/screenshoots/1.PNG" width="180"></td>
+    <td><img src="https://github.com/SuamiSahShiroko/simple-scheduler-ubsi/blob/test/screenshoots/3.PNG" width="180"></td>
+    <td><img src="https://github.com/SuamiSahShiroko/simple-scheduler-ubsi/blob/test/screenshoots/4.PNG" width="180"></td>
+    <td><img src="https://github.com/SuamiSahShiroko/simple-scheduler-ubsi/blob/test/screenshoots/7.PNG" width="180"></td>
+  </tr>
+</table>
 
 #### 3. <a href="https://github.com/andrr64/KeuanganKu">Financial App</a>
 KeuanganKu hadir sebagai platform inovatif yang dirancang khusus untuk memberikan dukungan dalam mengelola keuangan Anda secara lebih efisien. Dengan fitur-fitur andalan yang tersedia, tujuan platform ini adalah untuk memudahkan Anda dalam perencanaan, pemantauan, dan optimalisasi segala aspek keuangan Anda.
