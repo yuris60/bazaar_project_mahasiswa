@@ -1,5 +1,8 @@
 # Showoff Project Mahasiswa
-<img src="assets/logo_ubsi.png" width="200px"><br>
+<div align="center">
+  <img src="assets/logo_ubsi.png" width="200px">
+</div>
+<br>
 
 ShowOff Project (SOP) mahasiswa merupakan kumpulan project yang dihasilkan oleh Mahasiswa selama saya mengajar di kampus
 Universitas Bina Sarana Informatika (UBSI). SOP ini dipublikasikan sebagai bentuk apresiasi setinggi-tingginya kepada
