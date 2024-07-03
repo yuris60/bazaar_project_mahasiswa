@@ -9,6 +9,20 @@ Universitas Bina Sarana Informatika (UBSI). SOP ini dipublikasikan sebagai bentu
 seluruh mahasiswa yang sudah memberikan pekerjaan dengan baik dan maksimal
 untuk mendapatkan nilai project pada mata kuliah.
 
+## Genap 2023-2024
+### 📱 Mobile Programming
+#### 1. <a href="https://github.com/Farhan-19220459/Tiketkonserapp">Tiket Konser</a>
+Kelompok ini mengambil Project Tiket Konser, dikarenakan masih banyaknya calo-calo yang tidak manusiawi dengan harga jual tiket, sehingga kami memutuskan membuat program tiket konser berbasis mobile agar memudahkan pembelian tiket konser secara online dan mempersingkat waktu pembelian.
+##### Screenshot
+<table>
+  <tr>
+    <td><img src="https://github.com/Farhan-19220459/Tiketkonserapp/blob/main/assets/img/Login%20Form.jpg?raw=true" width="180"></td>
+    <td><img src="https://github.com/Farhan-19220459/Tiketkonserapp/blob/main/assets/img/Detail%20Konser.jpeg?raw=true" width="180"></td>
+    <td><img src="https://github.com/Farhan-19220459/Tiketkonserapp/blob/main/assets/img/Metode%20Pembayaran.jpg?raw=true" width="180"></td>
+    <td><img src="https://github.com/Farhan-19220459/Tiketkonserapp/blob/main/assets/img/Transaksi%20Berhasil.jpg?raw=true" width="180"></td>
+  </tr>
+</table>
+
 ## Gasal 2023-2024
 ### 📱 Mobile Programming
 #### 1. <a href="https://github.com/aldytarigan/recipe_app">Recipe App</a>
