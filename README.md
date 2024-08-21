@@ -11,7 +11,28 @@ untuk mendapatkan nilai project pada mata kuliah.
 
 ## Genap 2023-2024
 ### 📱 Mobile Programming
-#### 1. <a href="https://github.com/Farhan-19220459/Tiketkonserapp">Tiket Konser</a>
+#### 1. <a href="https://github.com/aryo1027/todo-app">To Do App</a>
+TODO App adalah sebuah aplikasi yang dibuat untuk untuk membantu pengguna dalam mengelola kegiatan-kegiatan harian mereka secara lebih efektif dan efisien. Dengan menggunakan aplikasi ini, pengguna dapat mencatat, melacak, dan mengatur berbagai kegiatan atau pekerjaan yang perlu mereka selesaikan.
+##### Screenshot
+<table>
+  <tr>
+    <td><img src="https://private-user-images.githubusercontent.com/71845244/344851364-c3b78bd2-eae6-472f-be68-78e297863dbe.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyNTc3OTQsIm5iZiI6MTcyNDI1NzQ5NCwicGF0aCI6Ii83MTg0NTI0NC8zNDQ4NTEzNjQtYzNiNzhiZDItZWFlNi00NzJmLWJlNjgtNzhlMjk3ODYzZGJlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIxVDE2MjQ1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYwMmI4MjZlODNlYzBmMzVkMjgzOTFiMTE5ZGMxOTgzODg5NzJjYzkwYzE2MmFiOTA2MWMzN2NkNmIyZTAzNDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.cR332e4uo6q9KO-Y4C02iEFHb7nKvBmc7E3Umhu9I3Y" width="180"></td>
+    <td><img src="https://private-user-images.githubusercontent.com/71845244/344851470-1f08999e-e0b3-4f60-bc69-7238da6ced89.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyNTc3OTQsIm5iZiI6MTcyNDI1NzQ5NCwicGF0aCI6Ii83MTg0NTI0NC8zNDQ4NTE0NzAtMWYwODk5OWUtZTBiMy00ZjYwLWJjNjktNzIzOGRhNmNlZDg5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIxVDE2MjQ1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ4ZmI0MDUxZTNiMzMzMjUwYjAwNGJlNDhmNmI2Yzg1ZmI5NTE5MjM3MWUyMTI0YzlmM2Q5NjIxMTFmMDg2MGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ZrpuKdnNogEawJP6ihgRouSINp8OMh0NNSw4vJ4A66k" width="180"></td>
+    <td><img src="https://private-user-images.githubusercontent.com/71845244/344848678-26bc98b4-280c-4e09-bc19-bfcea11e3681.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyNTc3OTQsIm5iZiI6MTcyNDI1NzQ5NCwicGF0aCI6Ii83MTg0NTI0NC8zNDQ4NDg2NzgtMjZiYzk4YjQtMjgwYy00ZTA5LWJjMTktYmZjZWExMWUzNjgxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIxVDE2MjQ1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY1YTY0NzQzYTIwNjc2NWQ5NTFmNWIzMzBiMTlmZmEzMTY4Yzc1MTMyMzA2M2EzOWM2YzRlYWJjYjZhMTZhMWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.pmpTrPYahpCH3JTBXLkJUtY8sXyqO8oQxVS83aGTDd0" width="180"></td>
+  </tr>
+</table>
+
+#### 2. <a href="https://github.com/frhn2106/calenderapp">Calendar App</a>
+Calendar app made by flutter
+##### Screenshot
+<table>
+  <tr>
+    <td><img src="https://private-user-images.githubusercontent.com/136331596/344398559-fc5c4fcf-81f6-41c3-b5e0-1d1166729c32.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyNTc3MTMsIm5iZiI6MTcyNDI1NzQxMywicGF0aCI6Ii8xMzYzMzE1OTYvMzQ0Mzk4NTU5LWZjNWM0ZmNmLTgxZjYtNDFjMy1iNWUwLTFkMTE2NjcyOWMzMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyMVQxNjIzMzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MTI4MzU3NjU2OGE2MDY4ZWM1Mjk2ZTg5ZWE4ZjViOTU3N2ZjNzUwYWIzYThiY2MwYjhiYjJlOWRjMDc0ZjNlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ORd_tai28heB5MVNGUKfX2dakSi6x4bCa5PAbucrnsc" width="180"></td>
+    <td><img src="https://private-user-images.githubusercontent.com/136331596/344398626-0756e379-7b17-4283-bdce-bc4d03bb53a5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyNTc3MTMsIm5iZiI6MTcyNDI1NzQxMywicGF0aCI6Ii8xMzYzMzE1OTYvMzQ0Mzk4NjI2LTA3NTZlMzc5LTdiMTctNDI4My1iZGNlLWJjNGQwM2JiNTNhNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyMVQxNjIzMzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01YWNlNDJiN2EzMjhiMjYzMmZkNWM5MTUyYzM4NzBjYTgyZDBjYmFkMmQ2MDRjNTA0ZWY4NGZiMGE5ZDY0MGNlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.bJ9qyEP1CZ1ijb7b-5sxUx4mFlldc1v_u9DqFctjtgk" width="180"></td>
+  </tr>
+</table>
+
+#### 3. <a href="https://github.com/Farhan-19220459/Tiketkonserapp">Tiket Konser</a>
 Kelompok ini mengambil Project Tiket Konser, dikarenakan masih banyaknya calo-calo yang tidak manusiawi dengan harga jual tiket, sehingga kami memutuskan membuat program tiket konser berbasis mobile agar memudahkan pembelian tiket konser secara online dan mempersingkat waktu pembelian.
 ##### Screenshot
 <table>
@@ -20,6 +41,50 @@ Kelompok ini mengambil Project Tiket Konser, dikarenakan masih banyaknya calo-ca
     <td><img src="https://github.com/Farhan-19220459/Tiketkonserapp/blob/main/assets/img/Detail%20Konser.jpeg?raw=true" width="180"></td>
     <td><img src="https://github.com/Farhan-19220459/Tiketkonserapp/blob/main/assets/img/Metode%20Pembayaran.jpg?raw=true" width="180"></td>
     <td><img src="https://github.com/Farhan-19220459/Tiketkonserapp/blob/main/assets/img/Transaksi%20Berhasil.jpg?raw=true" width="180"></td>
+  </tr>
+</table>
+
+#### 4. <a href="https://github.com/miyakaromiyah/BookLab/">BookLab App</a>
+Aplikasi BookLab sebagai alat efektif untuk mendukung tujuan tersebut. Melalui kemajuan teknologi mobile dan internet, aplikasi BookLab memberikan minat membaca dengan mudah.Penggunaan data dan analitika memudahkan untuk membaca novel . Dengan adanya aplikasi BookLab, memiliki potensi besar dalam mempengaruhi kebiasaan pengguna untuk minat membaca.
+##### Screenshot
+<table>
+  <tr>
+    <td><img src="https://github.com/miyakaromiyah/BookLab/blob/main/assets/ss/loading.png?raw=true" width="180"></td>
+    <td><img src="https://github.com/miyakaromiyah/BookLab/blob/main/assets/ss/login.png?raw=true" width="180"></td>
+    <td><img src="https://github.com/miyakaromiyah/BookLab/blob/main/assets/ss/addBook.png?raw=true" width="180"></td>
+    <td><img src="https://github.com/miyakaromiyah/BookLab/blob/main/assets/ss/bookReader.png?raw=true" width="180"></td>
+  </tr>
+</table>
+
+#### 5. <a href="https://github.com/GaluhAkbar/Bacaan-Sholat-Flutter-main/">Bacaan Sholat</a>
+Sebagai seorang muslim sholat 5 waktu adalah wajib hukumnya. Shalat adalah tiang agama dan amal perbuatan seorang hamba yang pertama kali di hisap pada hari akhir nanti. Setiap umat muslim diwajibkan mengikuti tata cara shalat nabi Muhammad SAW, seperti yang telah beliau sabdakan kepada kita semua beliau bersabda “shalatlah kamu sekalian sebagaimana melihatku shalat”. oleh karena itu dibuatlah aplikasi bacaan sholat untuk mempermudah pengguna dalam belajar dan menghafalkan cara sholat sesuai dengan tuntunan yang di perintahkan.
+##### Screenshot
+<table>
+  <tr>
+    <td><img src="https://github.com/GaluhAkbar/Bacaan-Sholat-Flutter-main/blob/master/assets/images/Niatsholat.png?raw=true" width="180"></td>
+    <td><img src="https://github.com/GaluhAkbar/Bacaan-Sholat-Flutter-main/blob/master/assets/images/ayatkursi.png?raw=true" width="180"></td>
+    <td><img src="https://github.com/GaluhAkbar/Bacaan-Sholat-Flutter-main/blob/master/assets/images/Bacaansholat.png?raw=true" width="180"></td>
+  </tr>
+</table>
+
+#### 6. <a href="https://github.com/Safiraa0604/recipe_app-main">Recipe App</a>
+Aplikasi Recipe App menyediakan beragam fitur interaktif, termasuk kategori masakan, panduan langkah demi langkah dengan serta daftar bahan-bahan yang dibutuhkan. Menggunakan framework Flutter dengan bahasa pemrograman Dart, aplikasi ini menjanjikan pengalaman yang responsif dan mudah digunakan bagi para pengguna.
+##### Screenshot
+<table>
+  <tr>
+    <td><img src="https://github.com/Safiraa0604/recipe_app-main/blob/main/assets/beranda.png?raw=true" width="180"></td>
+    <td><img src="https://github.com/Safiraa0604/recipe_app-main/blob/main/assets/detail1.png?raw=true" width="180"></td>
+    <td><img src="https://github.com/Safiraa0604/recipe_app-main/blob/main/assets/detail2.png?raw=true" width="180"></td>
+  </tr>
+</table>
+
+#### 7. <a href="https://github.com/firdawalia/kisah_nabi">Kisah 25 Nabi</a>
+25 kisah Nabi adalah aplikasi cerita Nabi yang berbasis Mobile dengan menggunakan framework Flutter. Terdapat 2 menu utama yang terdapat pada aplikasi ini yakni Home dan Bookmark.
+##### Screenshot
+<table>
+  <tr>
+    <td><img src="https://github.com/firdawalia/kisah_nabi/blob/main/assets/images/home.jpg?raw=true" width="180"></td>
+    <td><img src="https://github.com/firdawalia/kisah_nabi/blob/main/assets/images/bookmark.jpg?raw=true" width="180"></td>
   </tr>
 </table>
 
